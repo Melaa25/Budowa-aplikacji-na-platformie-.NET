@@ -21,26 +21,16 @@ Projekt został stworzony w ramach zajęć **Budowa aplikacji na platformie .NET
 ## 🛠️ Technologie
 - **.NET Framework**
 - **C#**
-- **WinForms** lub **WPF** (w zależności od zastosowanej technologii do stworzenia interfejsu użytkownika).
-
-## 📁 Struktura plików
-- `MainForm.cs` - Główna logika aplikacji i interfejs użytkownika.
-- `FileHandler.cs` - Obsługa operacji na plikach (CSV i JSON).
-- `Recorder.cs` - Moduł do nagrywania i zapisywania utworów.
+- **WinForms**
 
 ## 🔧 Jak uruchomić projekt?
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/TwojeRepozytorium/Pianinko.git
+   git clone https://github.com/Melaa25/Budowa-aplikacji-na-platformie-.NET.git
    ```
 2. Otwórz projekt w Visual Studio.
 3. Uruchom aplikację za pomocą przycisku **Start** lub skrótu `F5`.
 
-## 🌟 Przyszłe ulepszenia
-- Dodanie możliwości zapisu w formacie MIDI.
-- Rozszerzenie o możliwość zmiany instrumentu.
-- Ulepszenie interfejsu graficznego.
-
 ## 📝 Autor
-Projekt stworzony przez **[Twoje Imię i Nazwisko]** w ramach zajęć **Budowa aplikacji na platformie .NET**.
+Projekt stworzony przez **Emilia Massowa** w ramach zajęć **Budowa aplikacji na platformie .NET**.
 
